@@ -1,0 +1,10 @@
+# Ignorar directorios
+
+.ipynb_checkpoints/**
+Datos ventiladores del RB670/**
+IMAGENES/**
+
+# Ignorar archivos
+
+RB670-VEN099.ipynb
+RB670-VEN103.ipynb
